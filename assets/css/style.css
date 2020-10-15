@@ -265,13 +265,13 @@ a{
       margin-bottom: 20px;
   }
 .sponsors{
-    margin-left: 50px;
+    margin-left: 100px;
     margin-right: 30px;
 }
 @media (max-width: 600px){
     .sponsors{
-        margin-left: 20px;
-        margin-right: 30px;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 
 }
